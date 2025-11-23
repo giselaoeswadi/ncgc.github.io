@@ -8,3 +8,5 @@ Sumber :
 Flip Card : https://www.w3schools.com/howto/howto_css_flip_card.asp
 <br>
 <br>
+DOKUMENTASI PEMBUATAN WEBSITE FINAL NCGC
+Klik di sini : https://drive.google.com/file/d/1wHr5wpOCKRLklkhWPqGEZGyjDFB8SESH/view?usp=sharing

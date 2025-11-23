@@ -8,14 +8,14 @@ Sumber :
 Flip Card : https://www.w3schools.com/howto/howto_css_flip_card.asp
 <br>
 <br>
-DOKUMENTASI PROYEK WEBSITE
+<b>DOKUMENTASI PROYEK WEBSITE
 EKSPLORASI TATA SURYA
 
 Kategori 		: Web Design & Game Edukasi
 Kompetisi 		: National Coding & Game Championship 2025
 Oleh 			: Gisela Margaret Elysia Oeswadi
 Sekolah 		: SMP Xaverius 6 Palembang
-Kelas 			: VIII
+Kelas 			: VIII<b>
 
 
 Proyek website ini, berjudul EcoPlanet, mengambil tema Eksplorasi, Membangun, dan
